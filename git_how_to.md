@@ -42,7 +42,7 @@ commit các file đã add, cần ghi nội dung  rõ ràng, ví dụ "finish tas
 	git push origin asiantech_name				
 					
 ### 8. pull request
-vào trang repository của project, gửi pull request de merge branch cua minh vao branch master
+vào trang repository của project, gửi pull request de Leader review => merge branch cua minh vao branch chinh
 
 ### 9. tiep tuc lam task khac
 
