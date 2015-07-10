@@ -43,3 +43,9 @@ commit các file đã add, cần ghi nội dung  rõ ràng, ví dụ "finish tas
 					
 ### 8. pull request
 vào trang repository của project, gửi pull request de merge branch cua minh vao branch master
+
+### 9. tiep tuc lam task khac
+
+	git checkout master
+	git pull origin master
+	Quay lai buoc 2
